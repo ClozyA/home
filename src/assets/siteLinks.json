@@ -13,5 +13,20 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.fearr.xyz/status/fearr"
+  },
+  {
+    "icon": "Server",
+    "name": "反向代理",
+    "link": "https://proxy.fearr.xyz/"
+  },
+  {
+    "icon": "Headphones",
+    "name": "Music",
+    "link": "https://music.fearr.xyz/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "服务器探针",
+    "link": "https://probe.fearr.xyz/"
   }
 ]
